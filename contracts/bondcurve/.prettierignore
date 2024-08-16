@@ -1,0 +1,5 @@
+node_modules
+yarn.lock
+package-lock.json
+# 忽略 Rust 代码目录
+**/*.rs

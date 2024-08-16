@@ -1,0 +1,3 @@
+devnet:
+
+fairmint factory contract: 8Ezd1v6nBKrVBvQepsjmzXE7KoistTyFGrKwXV6BoqRw
